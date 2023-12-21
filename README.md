@@ -4,6 +4,7 @@ Contains 2 mini projects:-
    * Includes Files:
       - SCR Triggering Model_report.pdf -- Detailed Report
       - MicroPython_code_scr_trig.txt -- Code to be executed in Thonny IDE
+      - <https://drive.google.com/file/d/1sbaxKwhldwVVhjL61QKhvRvpHoVze0O6/view?usp=sharing> -- Working Video Link
 2) Three Phase Full Bridge Controller with Arduino Uno Triggering
    * Includes Files:
       - PE_Lab_mini_proj_report.pdf -- Detailed Report
